@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Zeinab
+
+🔭 I’m currently working on improving my skills in Ruby, Rails, CSS & JavaScript
 
 <!--
+
+My previous projects:
+
+League-All : A grassroots league organisation tool for women's and non-binary football.
+Venuebookr : an AirBnB clone for events spaces.
+
 **zeinaaabbb/zeinaaabbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
