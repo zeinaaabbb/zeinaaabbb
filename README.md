@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Zeinab</h1>
 
-<h5>  I'm a Fullstack Software Developer (who career changed from Pharmacy💊)</h5>
+<h2>  I'm a Fullstack Software Developer (who career changed from Pharmacy💊)</h2>
 
 <p> Graduated from Le Wagon's intensive nine-week Web Development Bootcamp. </p>
 
