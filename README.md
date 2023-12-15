@@ -1,5 +1,6 @@
 <h1> Hi 👋, I'm Zeinab</h1>
-<h3> A passionate frontend developer from London. </h3>
+
+<h5>  I'm a Fullstack Software Developer (who career changed from Pharmacy💊)</h5>
 
 <p> Graduated from Le Wagon's intensive nine-week Web Development Bootcamp. </p>
 
