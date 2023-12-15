@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zeinab</h1>
-<h3 align="center">A passionate frontend developer from London </h3>
+<h1> Hi 👋, I'm Zeinab</h1>
+<h3> A passionate frontend developer from London </h3>
 
 <p> Graduated from Le Wagon's intensive nine-week Web Development Bootcamp </p>
 
