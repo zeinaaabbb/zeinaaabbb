@@ -3,7 +3,7 @@
 <h2> Former Pharmacist turned Coding Enthusiast 🚀 </h2>
 
 <ul>
-  <li>🌱 Currently diving into the world of React</li>
+  <li>🌱 Currently diving into the world of React and Node.js </li>
   <li>🔭 Improving my skills in JavaScript</li>
 </ul>
 
