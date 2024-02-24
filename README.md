@@ -8,7 +8,7 @@
   <li>👩🏾‍💻 My portfolio www.zeinabwarsama.me </li>
 </ul>
 
-<p> Recently graduated from Le Wagon's nine-week intensive Web Development Bootcamp Dec 2023 Cohort. </p>
+<p> Recently graduated from Le Wagon's nine-week intensive Web Development Bootcamp. </p>
 
 
 <p>Check out some of my recent projects:</p>
