@@ -5,10 +5,10 @@
 <ul>
   <li>🌱 Currently diving into the world of React and Node.js </li>
   <li>🔭 Improving my skills in JavaScript</li>
-  <li>👨‍💻 My portfolio www.zeinabwarsama.me </li>
+  <li>👩🏾‍💻 My portfolio www.zeinabwarsama.me </li>
 </ul>
 
-<p> Graduated from Le Wagon's intensive nine-week Web Development Bootcamp. </p>
+<p> Recently graduated from Le Wagon's nine-week intensive Web Development Bootcamp Dec 2023 Cohort. </p>
 
 
 <p>Check out some of my recent projects:</p>
