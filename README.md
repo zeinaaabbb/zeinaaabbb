@@ -5,7 +5,7 @@
 <ul>
   <li>🌱 Currently diving into the world of React and Node.js </li>
   <li>🔭 Improving my skills in JavaScript</li>
-  <li>🍜 I'm currently working on DISH - recipies/li>
+  <li>🍜 I'm currently working on DISH - recipies</li>
   <li>👩🏾‍💻 My portfolio www.zeinabwarsama.me </li>
 </ul>
 
