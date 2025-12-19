@@ -1,19 +1,19 @@
-<h1> Hi! I'm Zeinab 👋 </h1>
+## Hi! I'm Zeinab 👋 
 
-<h3> Work: </h3>
+### Work:
 
-<ul>
-  <li> 👩🏾‍💻 Software Developer @ Financial Times </li>
-</ul>
+👩🏾‍💻 Junior Software Engineer @ Financial Times 
 
-<h3> Current learnings: </h3>
+### Current learnings:
 
-<ul>
-  <li>Responsive design & CSS </li>
-  <li>Typescript</li>
-  <li>AWS</li>
-</ul>
+- Backend development (APIs, databases, server-side logic)
+- AWS fundamentals
 
+### Projects in progress:
+
+- CLI Tools (Task Tracker, GitHub Activity, and Expense Tracker Tools)
+- RESTful APIS (Todo List, Blogging, Weather)
+- Web apps (Unit Converter, Personal Blog)
 
 
 <h3 align="left">Languages and Tools:</h3>
